@@ -1,0 +1,30 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.container{
+    width: 1000px;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    height: 800px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+img{
+    width: 130px;
+    border-radius: 5%;
+    margin-left: 2%;
+    float: left;
+    margin-right: 50px;
+}
+.name{
+    margin-bottom: 50px;
+    align-content: end;
+}
+.acad{
+    width: 900px;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
