@@ -1,0 +1,47 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.container{
+    width: 1000px;
+    background-color: plum ;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    height: 1200px;
+}
+img{
+    width: 200px;
+    border-radius: 5%;
+}
+h4{
+    margin: 0px;
+}
+h2{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.header{
+    margin-left: 70px;
+margin-top: 30px;
+margin-right: 70px ;
+}
+.photo{
+float: left;
+
+}
+.details{
+    float: right;
+    font-size: 20px;
+    text-align: right;
+}
+.education{
+    font-size: 30px;
+   float: left;
+   margin: 70px;
+}
+.eduhead{
+    float: left;
+}
+.edudet{
+    float: right;
+}
